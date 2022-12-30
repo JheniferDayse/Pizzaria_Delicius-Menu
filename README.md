@@ -17,4 +17,4 @@ Um cardápio online para apresentar o menu da pizzaria e simplificar a realizaç
 :heavy_check_mark:JS
 
 
-<i> O cardápio está em evolução e ainda poderá ser aprimorado <i> 	:hearts: :books: :books:
+<i> O cardápio está em evolução e ainda poderá ser aprimorado <i> 	:hearts: :books: :owl:
