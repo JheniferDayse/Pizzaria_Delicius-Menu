@@ -9,6 +9,7 @@ Um cardápio online para apresentar o menu da pizzaria e simplificar a realizaç
  ---
 
 - Tecnologias Utilizadas:
+
 :heavy_check_mark:HTML5
 
 :heavy_check_mark:CSS3
